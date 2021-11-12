@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'OPPOSans M';
-    src: url('OPPOSans-M.woff2') format('woff2'),
-        url('OPPOSans-M.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/ffork/Custom-WebFonts@0.0.1/OPPOSans/OPPOSans-M.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/ffork/Custom-WebFonts@0.0.1/OPPOSans/OPPOSans-M.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'OPPOSans L';
-    src: url('OPPOSans-L.woff2') format('woff2'),
-        url('OPPOSans-L.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/ffork/Custom-WebFonts@0.0.1/OPPOSans/OPPOSans-L.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/ffork/Custom-WebFonts@0.0.1/OPPOSans/OPPOSans-L.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'OPPOSans R';
-    src: url('OPPOSans-R.woff2') format('woff2'),
-        url('OPPOSans-R.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/ffork/Custom-WebFonts@0.0.1/OPPOSans/OPPOSans-R.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/ffork/Custom-WebFonts@0.0.1/OPPOSans/OPPOSans-R.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'OPPOSans B';
-    src: url('OPPOSans-B.woff2') format('woff2'),
-        url('OPPOSans-B.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/ffork/Custom-WebFonts@0.0.1/OPPOSans/OPPOSans-B.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/ffork/Custom-WebFonts@0.0.1/OPPOSans/OPPOSans-B.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -36,8 +36,8 @@
 
 @font-face {
     font-family: 'OPPOSans H';
-    src: url('OPPOSans-H.woff2') format('woff2'),
-        url('OPPOSans-H.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/ffork/Custom-WebFonts@0.0.1/OPPOSans/OPPOSans-H.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/ffork/Custom-WebFonts@0.0.1/OPPOSans/OPPOSans-H.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
